@@ -20,4 +20,5 @@ if bit == '64bit':
 
 elif bit == '32bit':
 
-    print "Opps Your Device Not Supported"
+    from OLD32 import menu
+  menu()
