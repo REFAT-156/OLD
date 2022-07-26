@@ -20,6 +20,8 @@ if bit == "64bit":
  
         bye()
  
+
+
  
  
 elif bit == "32bit":
@@ -28,5 +30,3 @@ elif bit == "32bit":
  
  
         bye()
- 
- 
