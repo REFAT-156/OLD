@@ -1,5 +1,6 @@
-# Encoded By : MAHADI HASAN AFRIDI
-# Encryption : Py3 Marshal
+# Note        : HALF DEC KORE KONO LOVE NAI ❤😘
+# Encoded By  : REFAT SHAHRIAR ❤😘
+# Encryption  : PY3 MARSHAL 💁‍♂️
 # Py3 Version : 3.10.4
 
 import marshal
